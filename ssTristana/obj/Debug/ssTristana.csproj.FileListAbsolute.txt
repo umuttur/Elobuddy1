@@ -1,0 +1,11 @@
+c:\users\umut\documents\visual studio 2015\Projects\ssTristana\ssTristana\bin\Debug\ssTristana.exe.config
+c:\users\umut\documents\visual studio 2015\Projects\ssTristana\ssTristana\bin\Debug\ssTristana.exe
+c:\users\umut\documents\visual studio 2015\Projects\ssTristana\ssTristana\bin\Debug\ssTristana.pdb
+c:\users\umut\documents\visual studio 2015\Projects\ssTristana\ssTristana\bin\Debug\EloBuddy.dll
+c:\users\umut\documents\visual studio 2015\Projects\ssTristana\ssTristana\bin\Debug\EloBuddy.SDK.dll
+c:\users\umut\documents\visual studio 2015\Projects\ssTristana\ssTristana\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\umut\documents\visual studio 2015\Projects\ssTristana\ssTristana\bin\Debug\SharpDX.dll
+c:\users\umut\documents\visual studio 2015\Projects\ssTristana\ssTristana\bin\Debug\Newtonsoft.Json.dll
+c:\users\umut\documents\visual studio 2015\Projects\ssTristana\ssTristana\obj\Debug\ssTristana.csprojResolveAssemblyReference.cache
+c:\users\umut\documents\visual studio 2015\Projects\ssTristana\ssTristana\obj\Debug\ssTristana.exe
+c:\users\umut\documents\visual studio 2015\Projects\ssTristana\ssTristana\obj\Debug\ssTristana.pdb
